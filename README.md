@@ -1,15 +1,4 @@
 ## Hi there 👋
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; margin: auto;">
-  <img src="https://streak-stats.demolab.com?user=PixelPerfectMind&theme=solarized-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPerfectMind&title_color=268bd2&text_color=b58900&icon_color=268bd2&bg_color=002b36&langs_count=5&layout=compact" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelPerfectMind&show_icons=true&line_height=27&count_private=true&title_color=268bd2&text_color=b58900&icon_color=268bd2&bg_color=002b36" alt="Martin's GitHub Stats" />
-</div>
-
-<!--
-**PixelPerfectMind/PixelPerfectMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on nothing special, so far
 - 🌱 I’m currently learning nothing special, so far
@@ -18,6 +7,13 @@ Here are some ideas to get you started:
 - 💬 Don't invite me to meetings to discuss what will be discussed in the next meeting - one email is enough!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: you can center a `<div />` element with some inline CSS: `style="display: flex; margin: auto;"`
+
+## 📊 Stats
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; margin: auto;">
+  <img src="https://streak-stats.demolab.com?user=PixelPerfectMind&theme=solarized-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPerfectMind&title_color=268bd2&text_color=b58900&icon_color=268bd2&bg_color=002b36&langs_count=5&layout=compact" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PixelPerfectMind&show_icons=true&line_height=27&count_private=true&title_color=268bd2&text_color=b58900&icon_color=268bd2&bg_color=002b36" alt="Martin's GitHub Stats" />
+</div>
 
 ## 🔧 Mostly used technologies and frameworks
 ![Framwwork - ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-077a81?logo=.net&logoColor=white)
